@@ -1,6 +1,6 @@
 # Telegram Bot Hujjati
   
-![TgBot](https://celebrated-pudding-07af2f.netlify.app/images/ai.jpg)
+![TgBot](https://idyllic-kulfi-3c8dae.netlify.app/images/ai.jpg)
 )
    
         
